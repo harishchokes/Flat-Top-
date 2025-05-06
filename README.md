@@ -1,4 +1,4 @@
-# Flat-Top
+<img width="316" alt="image" src="https://github.com/user-attachments/assets/21d5a790-fc7c-4f7e-85e6-c4b99d395448" /># Flat-Top
 # Aim:
 
 Write a Python program for the Construction and Reconctruction of Flat-Top Sampling.
@@ -81,6 +81,14 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/f16d5776-4b1c-47a3-85ba-f3a9eee03c58)
 
+#grsph:
+
+![ 2025-05-06 200226](https://github.com/user-attachments/assets/20b3db7c-90cf-4d69-b22d-11b6e2504692)
+
+
+
+
+
 # Results:
 
-# Hardware experiment output waveform:
+
