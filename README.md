@@ -1,4 +1,4 @@
-<img width="316" alt="image" src="https://github.com/user-attachments/assets/21d5a790-fc7c-4f7e-85e6-c4b99d395448" /># Flat-Top
+
 # Aim:
 
 Write a Python program for the Construction and Reconctruction of Flat-Top Sampling.
